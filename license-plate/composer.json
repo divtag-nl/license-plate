@@ -2,7 +2,7 @@
     "name": "divtag-nl/license-plate",
     "description": "PHP library to validate and format license plate numbers.",
     "keywords": ["PHP","License plate"],
-    "homepage": "http://github.com/divtag-nl/LicensePlate.git",
+    "homepage": "https://github.com/divtag-nl/license-plate.git",
     "type": "library",
     "license": "LGPL",
     "authors": [
