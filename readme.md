@@ -24,7 +24,7 @@ Add the following to your composer.json:
 ``` json
 {
     "require": {
-        "intrepidity/license-plate": "^1.0.0"
+        "divtag-nl/license-plate": "^1.0.0"
     }
 }
 ```
